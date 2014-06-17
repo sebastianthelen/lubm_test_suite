@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #  run_test_suite.sh
 #  
@@ -35,7 +35,7 @@ time curl -G --silent --header "Accept: application/sparql-results+xml" 'http://
 
 for i in `seq 1 14`;
 do
-	xsltproc -o results/normalized_sparql$i.json ../extract_bindings.xslt results/sparql$i.json
-	TMP=`cat results/normalized_sparql$i.json | tr -d " \t\n"`
-    echo -e "$TMP\n" > results/tmp.json && mv results/tmp.json results/normalized_sparql$i.json
+     xsltproc -o results/normalized_sparql$i.json ../extract_bindings.xslt results/sparql$i.json;
+	TMP=`cat results/normalized_sparql$i.json | tr -d " \t\n"`;
+    echo "$TMP" > results/tmp.json && mv results/tmp.json results/normalized_sparql$i.json
 done
