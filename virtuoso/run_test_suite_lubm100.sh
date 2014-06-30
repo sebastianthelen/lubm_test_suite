@@ -26,12 +26,23 @@ query[12]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PRE
 query[13]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX ub: <http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#> SELECT DISTINCT ?X WHERE {?X rdf:type ub:Person . <http://www.University0.edu> ub:hasAlumnus ?X} ORDER BY DESC(?X)'
 query[14]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX ub: <http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#> SELECT DISTINCT ?X WHERE {?X rdf:type ub:UndergraduateStudent} ORDER BY DESC(?X)'
 
+#for j in 0 1 2 3 4
+#do
+#	for i in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+#	do
+#	time (curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" 'http://abel:8890/sparql' --data-urlencode 'query='"${query[$i]}"'' > results/lubm100/sparql$i-$j.xml) 2>>results/timing_lubm100_$j.log
+#	xsltproc -o results/lubm100/result$i-$j.xml ../extract_bindings.xslt results/lubm100/sparql$i-$j.xml;
+#	done
+#done
+
 for j in 0 1 2 3 4
 do
-	for i in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+	for i in 0 1 2 3 4 5 6 7 8 9 10 11
 	do
-	time (curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" 'http://abel:8890/sparql' --data-urlencode 'query='"${query[$i]}"'' > results/lubm100/sparql$i-$j.xml) 2>>results/timing_lubm100_$j.log
-	xsltproc -o results/lubm100/result$i-$j.xml ../extract_bindings.xslt results/lubm100/sparql$i-$j.xml;
+	printf "%d,%d," "$j" "$i" >> log.csv
+	t=$((/usr/bin/time -f'%e' curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" --header "X-Requested-With:XMLHttpRequest" --header "Authorization:Basic YWRtaW46YWRtaW4=" --header "SD-Connection-String:reasoning=NONE" 'http://abel:5820/annex/lubm100DB/sparql/query' --data-urlencode 'query='"${query[$i]}"'' > results/lubm100/sparql$i-$j.xml) 2>&1)
+	printf "%s," "$t" >> results/lubm100/log.csv
+	xsltproc ../extract_bindings.xslt results/lubm100/sparql$i-$j.xml >> results/lubm100/log.csv;
+	printf "\n" >> results/lubm100/log.csv
 	done
 done
-
