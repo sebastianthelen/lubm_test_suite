@@ -26,11 +26,11 @@ query[12]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PRE
 query[13]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX ub: <http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#> SELECT DISTINCT ?X WHERE {?X rdf:type ub:Person . <http://www.University0.edu> ub:hasAlumnus ?X} ORDER BY DESC(?X)'
 query[14]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX ub: <http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#> SELECT DISTINCT ?X WHERE {?X rdf:type ub:UndergraduateStudent} ORDER BY DESC(?X)'
 
-for j in 0 1 2
+for j in 0 1 2 3 4
 do
 	for i in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
 	do
-	time (curl -G --silent --header "Accept: application/sparql-results+xml" 'http://abel:8890/sparql' --data-urlencode 'query='"${query[$i]}"'' > results/lubm100/sparql$i-$j.xml) 2>>results/timing_lubm100_$j.log
+	time (curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" 'http://abel:8890/sparql' --data-urlencode 'query='"${query[$i]}"'' > results/lubm100/sparql$i-$j.xml) 2>>results/timing_lubm100_$j.log
 	xsltproc -o results/lubm100/result$i-$j.xml ../extract_bindings.xslt results/lubm100/sparql$i-$j.xml;
 	done
 done
