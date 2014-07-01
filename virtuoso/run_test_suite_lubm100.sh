@@ -6,7 +6,6 @@
 #  Created by Sebastian Thelen on 13/06/14.
 #
 
-rm timing_lubm_100_*.log
 rm -rf results/lubm100
 mkdir results/lubm100
 
