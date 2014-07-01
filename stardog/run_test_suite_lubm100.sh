@@ -38,7 +38,7 @@ for j in 0 1 2 3 4
 do
 	for i in 0 1 2 3 4 5 6 7 8 9 10 11
 	do
-	printf "%d,%d," "$j" "$i" >> log.csv
+	printf "%d,%d," "$j" "$i" >> results/lubm100/log.csv
 	t=$((/usr/bin/time -f'%e' curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" --header "X-Requested-With:XMLHttpRequest" --header "Authorization:Basic YWRtaW46YWRtaW4=" --header "SD-Connection-String:reasoning=EL" 'http://abel:5820/annex/lubm100DB/sparql/query' --data-urlencode 'query='"${query[$i]}"'' > results/lubm100/sparql$i-$j.xml) 2>&1)
 	printf "%s," "$t" >> results/lubm100/log.csv
 	xsltproc ../extract_bindings.xslt results/lubm100/sparql$i-$j.xml >> results/lubm100/log.csv;
