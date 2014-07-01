@@ -1,0 +1,1 @@
+java.lang.RuntimeException: com.complexible.stardog.plan.eval.operator.OperatorException: Query execution cancelled: Execution time exceeded query timeout 300000
