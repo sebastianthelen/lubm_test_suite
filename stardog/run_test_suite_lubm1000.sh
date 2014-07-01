@@ -34,7 +34,6 @@ query[14]='PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX ub: 
 #	done
 #done
 
-
 for j in 0 1 2 3 4
 do
 	for i in 0 1 2 3 4 5 6 7 8 9 10 11
