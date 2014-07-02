@@ -1,0 +1,1329 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="X"/>
+  <variable name="Y"/>
+  <variable name="Z"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="X"><uri>http://www.Department9.University99.edu/GraduateStudent22</uri></binding>
+   <binding name="Y"><uri>http://www.University99.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University99.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University92.edu/GraduateStudent19</uri></binding>
+   <binding name="Y"><uri>http://www.University92.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University92.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University88.edu/GraduateStudent7</uri></binding>
+   <binding name="Y"><uri>http://www.University88.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University88.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University8.edu/GraduateStudent111</uri></binding>
+   <binding name="Y"><uri>http://www.University8.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University8.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University55.edu/GraduateStudent75</uri></binding>
+   <binding name="Y"><uri>http://www.University55.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University55.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University49.edu/GraduateStudent71</uri></binding>
+   <binding name="Y"><uri>http://www.University49.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University49.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University39.edu/GraduateStudent47</uri></binding>
+   <binding name="Y"><uri>http://www.University39.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University39.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University31.edu/GraduateStudent77</uri></binding>
+   <binding name="Y"><uri>http://www.University31.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University31.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University30.edu/GraduateStudent80</uri></binding>
+   <binding name="Y"><uri>http://www.University30.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University30.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University29.edu/GraduateStudent46</uri></binding>
+   <binding name="Y"><uri>http://www.University29.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University29.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University28.edu/GraduateStudent1</uri></binding>
+   <binding name="Y"><uri>http://www.University28.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University28.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University20.edu/GraduateStudent80</uri></binding>
+   <binding name="Y"><uri>http://www.University20.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department9.University20.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University9.edu/GraduateStudent10</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University80.edu/GraduateStudent43</uri></binding>
+   <binding name="Y"><uri>http://www.University80.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University80.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University73.edu/GraduateStudent26</uri></binding>
+   <binding name="Y"><uri>http://www.University73.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University73.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University64.edu/GraduateStudent42</uri></binding>
+   <binding name="Y"><uri>http://www.University64.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University64.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University50.edu/GraduateStudent14</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University45.edu/GraduateStudent126</uri></binding>
+   <binding name="Y"><uri>http://www.University45.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University45.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University44.edu/GraduateStudent43</uri></binding>
+   <binding name="Y"><uri>http://www.University44.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University44.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University40.edu/GraduateStudent33</uri></binding>
+   <binding name="Y"><uri>http://www.University40.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University40.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University39.edu/GraduateStudent65</uri></binding>
+   <binding name="Y"><uri>http://www.University39.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University39.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University21.edu/GraduateStudent89</uri></binding>
+   <binding name="Y"><uri>http://www.University21.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University21.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University2.edu/GraduateStudent61</uri></binding>
+   <binding name="Y"><uri>http://www.University2.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University2.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University14.edu/GraduateStudent103</uri></binding>
+   <binding name="Y"><uri>http://www.University14.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University14.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University13.edu/GraduateStudent47</uri></binding>
+   <binding name="Y"><uri>http://www.University13.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University13.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University13.edu/GraduateStudent106</uri></binding>
+   <binding name="Y"><uri>http://www.University13.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University13.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University11.edu/GraduateStudent103</uri></binding>
+   <binding name="Y"><uri>http://www.University11.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department8.University11.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University95.edu/GraduateStudent95</uri></binding>
+   <binding name="Y"><uri>http://www.University95.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University95.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University94.edu/GraduateStudent97</uri></binding>
+   <binding name="Y"><uri>http://www.University94.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University94.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University92.edu/GraduateStudent87</uri></binding>
+   <binding name="Y"><uri>http://www.University92.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University92.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University91.edu/GraduateStudent134</uri></binding>
+   <binding name="Y"><uri>http://www.University91.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University91.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University87.edu/GraduateStudent88</uri></binding>
+   <binding name="Y"><uri>http://www.University87.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University87.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University82.edu/GraduateStudent6</uri></binding>
+   <binding name="Y"><uri>http://www.University82.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University82.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University74.edu/GraduateStudent88</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University50.edu/GraduateStudent41</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University5.edu/GraduateStudent34</uri></binding>
+   <binding name="Y"><uri>http://www.University5.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University5.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University4.edu/GraduateStudent92</uri></binding>
+   <binding name="Y"><uri>http://www.University4.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University4.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University37.edu/GraduateStudent93</uri></binding>
+   <binding name="Y"><uri>http://www.University37.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University37.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University36.edu/GraduateStudent32</uri></binding>
+   <binding name="Y"><uri>http://www.University36.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University36.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University24.edu/GraduateStudent69</uri></binding>
+   <binding name="Y"><uri>http://www.University24.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University24.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University16.edu/GraduateStudent47</uri></binding>
+   <binding name="Y"><uri>http://www.University16.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University16.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University15.edu/GraduateStudent44</uri></binding>
+   <binding name="Y"><uri>http://www.University15.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department7.University15.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University97.edu/GraduateStudent41</uri></binding>
+   <binding name="Y"><uri>http://www.University97.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University97.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University94.edu/GraduateStudent28</uri></binding>
+   <binding name="Y"><uri>http://www.University94.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University94.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University92.edu/GraduateStudent38</uri></binding>
+   <binding name="Y"><uri>http://www.University92.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University92.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University9.edu/GraduateStudent33</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University82.edu/GraduateStudent86</uri></binding>
+   <binding name="Y"><uri>http://www.University82.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University82.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University8.edu/GraduateStudent66</uri></binding>
+   <binding name="Y"><uri>http://www.University8.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University8.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University78.edu/GraduateStudent39</uri></binding>
+   <binding name="Y"><uri>http://www.University78.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University78.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University74.edu/GraduateStudent113</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University71.edu/GraduateStudent30</uri></binding>
+   <binding name="Y"><uri>http://www.University71.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University71.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University60.edu/GraduateStudent28</uri></binding>
+   <binding name="Y"><uri>http://www.University60.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University60.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University6.edu/GraduateStudent71</uri></binding>
+   <binding name="Y"><uri>http://www.University6.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University6.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University51.edu/GraduateStudent3</uri></binding>
+   <binding name="Y"><uri>http://www.University51.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University51.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University5.edu/GraduateStudent64</uri></binding>
+   <binding name="Y"><uri>http://www.University5.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University5.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University5.edu/GraduateStudent16</uri></binding>
+   <binding name="Y"><uri>http://www.University5.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University5.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University44.edu/GraduateStudent71</uri></binding>
+   <binding name="Y"><uri>http://www.University44.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University44.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University38.edu/GraduateStudent100</uri></binding>
+   <binding name="Y"><uri>http://www.University38.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University38.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University28.edu/GraduateStudent86</uri></binding>
+   <binding name="Y"><uri>http://www.University28.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University28.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University26.edu/GraduateStudent98</uri></binding>
+   <binding name="Y"><uri>http://www.University26.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University26.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University21.edu/GraduateStudent95</uri></binding>
+   <binding name="Y"><uri>http://www.University21.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University21.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University18.edu/GraduateStudent64</uri></binding>
+   <binding name="Y"><uri>http://www.University18.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department6.University18.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University77.edu/GraduateStudent42</uri></binding>
+   <binding name="Y"><uri>http://www.University77.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University77.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University72.edu/GraduateStudent51</uri></binding>
+   <binding name="Y"><uri>http://www.University72.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University72.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University52.edu/GraduateStudent107</uri></binding>
+   <binding name="Y"><uri>http://www.University52.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University52.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University40.edu/GraduateStudent16</uri></binding>
+   <binding name="Y"><uri>http://www.University40.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University40.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University27.edu/GraduateStudent88</uri></binding>
+   <binding name="Y"><uri>http://www.University27.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University27.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University26.edu/GraduateStudent104</uri></binding>
+   <binding name="Y"><uri>http://www.University26.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University26.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University24.edu/GraduateStudent61</uri></binding>
+   <binding name="Y"><uri>http://www.University24.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University24.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University21.edu/GraduateStudent73</uri></binding>
+   <binding name="Y"><uri>http://www.University21.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University21.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University20.edu/GraduateStudent77</uri></binding>
+   <binding name="Y"><uri>http://www.University20.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University20.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University13.edu/GraduateStudent100</uri></binding>
+   <binding name="Y"><uri>http://www.University13.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department5.University13.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University88.edu/GraduateStudent8</uri></binding>
+   <binding name="Y"><uri>http://www.University88.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University88.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University8.edu/GraduateStudent65</uri></binding>
+   <binding name="Y"><uri>http://www.University8.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University8.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University77.edu/GraduateStudent35</uri></binding>
+   <binding name="Y"><uri>http://www.University77.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University77.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University76.edu/GraduateStudent120</uri></binding>
+   <binding name="Y"><uri>http://www.University76.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University76.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University72.edu/GraduateStudent105</uri></binding>
+   <binding name="Y"><uri>http://www.University72.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University72.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University67.edu/GraduateStudent113</uri></binding>
+   <binding name="Y"><uri>http://www.University67.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University67.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University65.edu/GraduateStudent39</uri></binding>
+   <binding name="Y"><uri>http://www.University65.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University65.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University62.edu/GraduateStudent120</uri></binding>
+   <binding name="Y"><uri>http://www.University62.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University62.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University56.edu/GraduateStudent61</uri></binding>
+   <binding name="Y"><uri>http://www.University56.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University56.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University55.edu/GraduateStudent74</uri></binding>
+   <binding name="Y"><uri>http://www.University55.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University55.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University52.edu/GraduateStudent98</uri></binding>
+   <binding name="Y"><uri>http://www.University52.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University52.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University50.edu/GraduateStudent77</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University4.edu/GraduateStudent44</uri></binding>
+   <binding name="Y"><uri>http://www.University4.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University4.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University37.edu/GraduateStudent142</uri></binding>
+   <binding name="Y"><uri>http://www.University37.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University37.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University12.edu/GraduateStudent28</uri></binding>
+   <binding name="Y"><uri>http://www.University12.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department4.University12.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University99.edu/GraduateStudent94</uri></binding>
+   <binding name="Y"><uri>http://www.University99.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University99.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University87.edu/GraduateStudent34</uri></binding>
+   <binding name="Y"><uri>http://www.University87.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University87.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University84.edu/GraduateStudent87</uri></binding>
+   <binding name="Y"><uri>http://www.University84.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University84.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University82.edu/GraduateStudent30</uri></binding>
+   <binding name="Y"><uri>http://www.University82.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University82.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University74.edu/GraduateStudent15</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University71.edu/GraduateStudent14</uri></binding>
+   <binding name="Y"><uri>http://www.University71.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University71.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University64.edu/GraduateStudent69</uri></binding>
+   <binding name="Y"><uri>http://www.University64.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University64.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University57.edu/GraduateStudent73</uri></binding>
+   <binding name="Y"><uri>http://www.University57.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University57.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University55.edu/GraduateStudent71</uri></binding>
+   <binding name="Y"><uri>http://www.University55.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University55.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University55.edu/GraduateStudent34</uri></binding>
+   <binding name="Y"><uri>http://www.University55.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University55.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University46.edu/GraduateStudent14</uri></binding>
+   <binding name="Y"><uri>http://www.University46.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University46.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University31.edu/GraduateStudent92</uri></binding>
+   <binding name="Y"><uri>http://www.University31.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University31.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University30.edu/GraduateStudent13</uri></binding>
+   <binding name="Y"><uri>http://www.University30.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University30.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University13.edu/GraduateStudent84</uri></binding>
+   <binding name="Y"><uri>http://www.University13.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University13.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University10.edu/GraduateStudent38</uri></binding>
+   <binding name="Y"><uri>http://www.University10.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department3.University10.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department24.University12.edu/GraduateStudent35</uri></binding>
+   <binding name="Y"><uri>http://www.University12.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department24.University12.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department23.University74.edu/GraduateStudent108</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department23.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department23.University61.edu/GraduateStudent45</uri></binding>
+   <binding name="Y"><uri>http://www.University61.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department23.University61.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department23.University26.edu/GraduateStudent114</uri></binding>
+   <binding name="Y"><uri>http://www.University26.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department23.University26.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department22.University92.edu/GraduateStudent117</uri></binding>
+   <binding name="Y"><uri>http://www.University92.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department22.University92.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department22.University85.edu/GraduateStudent64</uri></binding>
+   <binding name="Y"><uri>http://www.University85.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department22.University85.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department22.University56.edu/GraduateStudent54</uri></binding>
+   <binding name="Y"><uri>http://www.University56.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department22.University56.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University96.edu/GraduateStudent26</uri></binding>
+   <binding name="Y"><uri>http://www.University96.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department21.University96.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University72.edu/GraduateStudent38</uri></binding>
+   <binding name="Y"><uri>http://www.University72.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department21.University72.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University65.edu/GraduateStudent114</uri></binding>
+   <binding name="Y"><uri>http://www.University65.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department21.University65.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University6.edu/GraduateStudent75</uri></binding>
+   <binding name="Y"><uri>http://www.University6.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department21.University6.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University19.edu/GraduateStudent110</uri></binding>
+   <binding name="Y"><uri>http://www.University19.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department21.University19.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University17.edu/GraduateStudent2</uri></binding>
+   <binding name="Y"><uri>http://www.University17.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department21.University17.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University98.edu/GraduateStudent96</uri></binding>
+   <binding name="Y"><uri>http://www.University98.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University98.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University86.edu/GraduateStudent36</uri></binding>
+   <binding name="Y"><uri>http://www.University86.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University86.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University65.edu/GraduateStudent89</uri></binding>
+   <binding name="Y"><uri>http://www.University65.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University65.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University53.edu/GraduateStudent26</uri></binding>
+   <binding name="Y"><uri>http://www.University53.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University53.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University50.edu/GraduateStudent108</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University50.edu/GraduateStudent102</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University4.edu/GraduateStudent78</uri></binding>
+   <binding name="Y"><uri>http://www.University4.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University4.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University26.edu/GraduateStudent101</uri></binding>
+   <binding name="Y"><uri>http://www.University26.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University26.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University24.edu/GraduateStudent49</uri></binding>
+   <binding name="Y"><uri>http://www.University24.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University24.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University23.edu/GraduateStudent67</uri></binding>
+   <binding name="Y"><uri>http://www.University23.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department20.University23.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University99.edu/GraduateStudent44</uri></binding>
+   <binding name="Y"><uri>http://www.University99.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University99.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University98.edu/GraduateStudent29</uri></binding>
+   <binding name="Y"><uri>http://www.University98.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University98.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University84.edu/GraduateStudent19</uri></binding>
+   <binding name="Y"><uri>http://www.University84.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University84.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University76.edu/GraduateStudent66</uri></binding>
+   <binding name="Y"><uri>http://www.University76.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University76.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University65.edu/GraduateStudent86</uri></binding>
+   <binding name="Y"><uri>http://www.University65.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University65.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University6.edu/GraduateStudent52</uri></binding>
+   <binding name="Y"><uri>http://www.University6.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University6.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University38.edu/GraduateStudent53</uri></binding>
+   <binding name="Y"><uri>http://www.University38.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University38.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University34.edu/GraduateStudent84</uri></binding>
+   <binding name="Y"><uri>http://www.University34.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University34.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University28.edu/GraduateStudent9</uri></binding>
+   <binding name="Y"><uri>http://www.University28.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University28.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University23.edu/GraduateStudent91</uri></binding>
+   <binding name="Y"><uri>http://www.University23.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University23.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University19.edu/GraduateStudent16</uri></binding>
+   <binding name="Y"><uri>http://www.University19.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University19.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University12.edu/GraduateStudent63</uri></binding>
+   <binding name="Y"><uri>http://www.University12.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University12.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University11.edu/GraduateStudent71</uri></binding>
+   <binding name="Y"><uri>http://www.University11.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University11.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University10.edu/GraduateStudent69</uri></binding>
+   <binding name="Y"><uri>http://www.University10.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department2.University10.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University9.edu/GraduateStudent2</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University80.edu/GraduateStudent19</uri></binding>
+   <binding name="Y"><uri>http://www.University80.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University80.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University78.edu/GraduateStudent25</uri></binding>
+   <binding name="Y"><uri>http://www.University78.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University78.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University69.edu/GraduateStudent25</uri></binding>
+   <binding name="Y"><uri>http://www.University69.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University69.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University60.edu/GraduateStudent48</uri></binding>
+   <binding name="Y"><uri>http://www.University60.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University60.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University50.edu/GraduateStudent38</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University35.edu/GraduateStudent117</uri></binding>
+   <binding name="Y"><uri>http://www.University35.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University35.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University3.edu/GraduateStudent98</uri></binding>
+   <binding name="Y"><uri>http://www.University3.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University3.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University3.edu/GraduateStudent29</uri></binding>
+   <binding name="Y"><uri>http://www.University3.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University3.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University26.edu/GraduateStudent111</uri></binding>
+   <binding name="Y"><uri>http://www.University26.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department19.University26.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University56.edu/GraduateStudent41</uri></binding>
+   <binding name="Y"><uri>http://www.University56.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department18.University56.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University54.edu/GraduateStudent55</uri></binding>
+   <binding name="Y"><uri>http://www.University54.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department18.University54.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University48.edu/GraduateStudent139</uri></binding>
+   <binding name="Y"><uri>http://www.University48.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department18.University48.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University19.edu/GraduateStudent9</uri></binding>
+   <binding name="Y"><uri>http://www.University19.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department18.University19.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University18.edu/GraduateStudent9</uri></binding>
+   <binding name="Y"><uri>http://www.University18.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department18.University18.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University99.edu/GraduateStudent68</uri></binding>
+   <binding name="Y"><uri>http://www.University99.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University99.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University86.edu/GraduateStudent21</uri></binding>
+   <binding name="Y"><uri>http://www.University86.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University86.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University75.edu/GraduateStudent14</uri></binding>
+   <binding name="Y"><uri>http://www.University75.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University75.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University74.edu/GraduateStudent71</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University52.edu/GraduateStudent72</uri></binding>
+   <binding name="Y"><uri>http://www.University52.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University52.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University19.edu/GraduateStudent69</uri></binding>
+   <binding name="Y"><uri>http://www.University19.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University19.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University19.edu/GraduateStudent12</uri></binding>
+   <binding name="Y"><uri>http://www.University19.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University19.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University16.edu/GraduateStudent30</uri></binding>
+   <binding name="Y"><uri>http://www.University16.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University16.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University12.edu/GraduateStudent83</uri></binding>
+   <binding name="Y"><uri>http://www.University12.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department17.University12.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University99.edu/GraduateStudent105</uri></binding>
+   <binding name="Y"><uri>http://www.University99.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University99.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University94.edu/GraduateStudent46</uri></binding>
+   <binding name="Y"><uri>http://www.University94.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University94.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University9.edu/GraduateStudent79</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University86.edu/GraduateStudent48</uri></binding>
+   <binding name="Y"><uri>http://www.University86.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University86.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University71.edu/GraduateStudent93</uri></binding>
+   <binding name="Y"><uri>http://www.University71.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University71.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University69.edu/GraduateStudent100</uri></binding>
+   <binding name="Y"><uri>http://www.University69.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University69.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University64.edu/GraduateStudent62</uri></binding>
+   <binding name="Y"><uri>http://www.University64.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University64.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University18.edu/GraduateStudent54</uri></binding>
+   <binding name="Y"><uri>http://www.University18.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University18.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University13.edu/GraduateStudent91</uri></binding>
+   <binding name="Y"><uri>http://www.University13.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department16.University13.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University96.edu/GraduateStudent116</uri></binding>
+   <binding name="Y"><uri>http://www.University96.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University96.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University76.edu/GraduateStudent61</uri></binding>
+   <binding name="Y"><uri>http://www.University76.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University76.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University76.edu/GraduateStudent54</uri></binding>
+   <binding name="Y"><uri>http://www.University76.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University76.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University71.edu/GraduateStudent88</uri></binding>
+   <binding name="Y"><uri>http://www.University71.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University71.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University71.edu/GraduateStudent30</uri></binding>
+   <binding name="Y"><uri>http://www.University71.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University71.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University66.edu/GraduateStudent60</uri></binding>
+   <binding name="Y"><uri>http://www.University66.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University66.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University51.edu/GraduateStudent110</uri></binding>
+   <binding name="Y"><uri>http://www.University51.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University51.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University48.edu/GraduateStudent46</uri></binding>
+   <binding name="Y"><uri>http://www.University48.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University48.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University45.edu/GraduateStudent48</uri></binding>
+   <binding name="Y"><uri>http://www.University45.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University45.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University42.edu/GraduateStudent63</uri></binding>
+   <binding name="Y"><uri>http://www.University42.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University42.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University36.edu/GraduateStudent4</uri></binding>
+   <binding name="Y"><uri>http://www.University36.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University36.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University31.edu/GraduateStudent22</uri></binding>
+   <binding name="Y"><uri>http://www.University31.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University31.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University24.edu/GraduateStudent19</uri></binding>
+   <binding name="Y"><uri>http://www.University24.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University24.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University16.edu/GraduateStudent3</uri></binding>
+   <binding name="Y"><uri>http://www.University16.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department15.University16.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University97.edu/GraduateStudent50</uri></binding>
+   <binding name="Y"><uri>http://www.University97.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University97.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University95.edu/GraduateStudent43</uri></binding>
+   <binding name="Y"><uri>http://www.University95.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University95.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University93.edu/GraduateStudent103</uri></binding>
+   <binding name="Y"><uri>http://www.University93.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University93.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University88.edu/GraduateStudent12</uri></binding>
+   <binding name="Y"><uri>http://www.University88.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University88.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University79.edu/GraduateStudent33</uri></binding>
+   <binding name="Y"><uri>http://www.University79.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University79.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University76.edu/GraduateStudent51</uri></binding>
+   <binding name="Y"><uri>http://www.University76.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University76.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University76.edu/GraduateStudent20</uri></binding>
+   <binding name="Y"><uri>http://www.University76.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University76.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University58.edu/GraduateStudent84</uri></binding>
+   <binding name="Y"><uri>http://www.University58.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University58.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University47.edu/GraduateStudent17</uri></binding>
+   <binding name="Y"><uri>http://www.University47.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University47.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University46.edu/GraduateStudent5</uri></binding>
+   <binding name="Y"><uri>http://www.University46.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University46.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University38.edu/GraduateStudent29</uri></binding>
+   <binding name="Y"><uri>http://www.University38.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University38.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University2.edu/GraduateStudent101</uri></binding>
+   <binding name="Y"><uri>http://www.University2.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University2.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University12.edu/GraduateStudent6</uri></binding>
+   <binding name="Y"><uri>http://www.University12.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department14.University12.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University95.edu/GraduateStudent54</uri></binding>
+   <binding name="Y"><uri>http://www.University95.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department13.University95.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University82.edu/GraduateStudent24</uri></binding>
+   <binding name="Y"><uri>http://www.University82.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department13.University82.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University77.edu/GraduateStudent58</uri></binding>
+   <binding name="Y"><uri>http://www.University77.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department13.University77.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University74.edu/GraduateStudent92</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department13.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University72.edu/GraduateStudent45</uri></binding>
+   <binding name="Y"><uri>http://www.University72.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department13.University72.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University55.edu/GraduateStudent0</uri></binding>
+   <binding name="Y"><uri>http://www.University55.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department13.University55.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University98.edu/GraduateStudent29</uri></binding>
+   <binding name="Y"><uri>http://www.University98.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University98.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University98.edu/GraduateStudent101</uri></binding>
+   <binding name="Y"><uri>http://www.University98.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University98.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University9.edu/GraduateStudent32</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University82.edu/GraduateStudent120</uri></binding>
+   <binding name="Y"><uri>http://www.University82.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University82.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University70.edu/GraduateStudent99</uri></binding>
+   <binding name="Y"><uri>http://www.University70.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University70.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University56.edu/GraduateStudent13</uri></binding>
+   <binding name="Y"><uri>http://www.University56.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University56.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University43.edu/GraduateStudent29</uri></binding>
+   <binding name="Y"><uri>http://www.University43.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University43.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University34.edu/GraduateStudent27</uri></binding>
+   <binding name="Y"><uri>http://www.University34.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University34.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University31.edu/GraduateStudent48</uri></binding>
+   <binding name="Y"><uri>http://www.University31.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University31.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University22.edu/GraduateStudent77</uri></binding>
+   <binding name="Y"><uri>http://www.University22.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University22.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University21.edu/GraduateStudent55</uri></binding>
+   <binding name="Y"><uri>http://www.University21.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University21.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University17.edu/GraduateStudent114</uri></binding>
+   <binding name="Y"><uri>http://www.University17.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department12.University17.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University94.edu/GraduateStudent124</uri></binding>
+   <binding name="Y"><uri>http://www.University94.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University94.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University93.edu/GraduateStudent80</uri></binding>
+   <binding name="Y"><uri>http://www.University93.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University93.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University9.edu/GraduateStudent58</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University9.edu/GraduateStudent111</uri></binding>
+   <binding name="Y"><uri>http://www.University9.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University9.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University77.edu/GraduateStudent79</uri></binding>
+   <binding name="Y"><uri>http://www.University77.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University77.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University71.edu/GraduateStudent39</uri></binding>
+   <binding name="Y"><uri>http://www.University71.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University71.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University69.edu/GraduateStudent122</uri></binding>
+   <binding name="Y"><uri>http://www.University69.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University69.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University59.edu/GraduateStudent75</uri></binding>
+   <binding name="Y"><uri>http://www.University59.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University59.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University49.edu/GraduateStudent114</uri></binding>
+   <binding name="Y"><uri>http://www.University49.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University49.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University40.edu/GraduateStudent12</uri></binding>
+   <binding name="Y"><uri>http://www.University40.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University40.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University39.edu/GraduateStudent11</uri></binding>
+   <binding name="Y"><uri>http://www.University39.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University39.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University31.edu/GraduateStudent34</uri></binding>
+   <binding name="Y"><uri>http://www.University31.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University31.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University3.edu/GraduateStudent86</uri></binding>
+   <binding name="Y"><uri>http://www.University3.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University3.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University3.edu/GraduateStudent125</uri></binding>
+   <binding name="Y"><uri>http://www.University3.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University3.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University26.edu/GraduateStudent89</uri></binding>
+   <binding name="Y"><uri>http://www.University26.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department11.University26.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University95.edu/GraduateStudent85</uri></binding>
+   <binding name="Y"><uri>http://www.University95.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University95.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University85.edu/GraduateStudent68</uri></binding>
+   <binding name="Y"><uri>http://www.University85.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University85.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University74.edu/GraduateStudent20</uri></binding>
+   <binding name="Y"><uri>http://www.University74.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University74.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University6.edu/GraduateStudent86</uri></binding>
+   <binding name="Y"><uri>http://www.University6.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University6.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University52.edu/GraduateStudent78</uri></binding>
+   <binding name="Y"><uri>http://www.University52.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University52.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University41.edu/GraduateStudent41</uri></binding>
+   <binding name="Y"><uri>http://www.University41.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University41.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University41.edu/GraduateStudent100</uri></binding>
+   <binding name="Y"><uri>http://www.University41.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University41.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University40.edu/GraduateStudent112</uri></binding>
+   <binding name="Y"><uri>http://www.University40.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University40.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University20.edu/GraduateStudent26</uri></binding>
+   <binding name="Y"><uri>http://www.University20.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University20.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University12.edu/GraduateStudent31</uri></binding>
+   <binding name="Y"><uri>http://www.University12.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department10.University12.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University70.edu/GraduateStudent21</uri></binding>
+   <binding name="Y"><uri>http://www.University70.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University70.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University7.edu/GraduateStudent79</uri></binding>
+   <binding name="Y"><uri>http://www.University7.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University7.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University66.edu/GraduateStudent20</uri></binding>
+   <binding name="Y"><uri>http://www.University66.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University66.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University64.edu/GraduateStudent57</uri></binding>
+   <binding name="Y"><uri>http://www.University64.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University64.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University62.edu/GraduateStudent47</uri></binding>
+   <binding name="Y"><uri>http://www.University62.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University62.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University45.edu/GraduateStudent21</uri></binding>
+   <binding name="Y"><uri>http://www.University45.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University45.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University45.edu/GraduateStudent143</uri></binding>
+   <binding name="Y"><uri>http://www.University45.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University45.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University43.edu/GraduateStudent45</uri></binding>
+   <binding name="Y"><uri>http://www.University43.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University43.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University28.edu/GraduateStudent91</uri></binding>
+   <binding name="Y"><uri>http://www.University28.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University28.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University17.edu/GraduateStudent39</uri></binding>
+   <binding name="Y"><uri>http://www.University17.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department1.University17.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University95.edu/GraduateStudent115</uri></binding>
+   <binding name="Y"><uri>http://www.University95.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University95.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University92.edu/GraduateStudent74</uri></binding>
+   <binding name="Y"><uri>http://www.University92.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University92.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University91.edu/GraduateStudent25</uri></binding>
+   <binding name="Y"><uri>http://www.University91.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University91.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University82.edu/GraduateStudent42</uri></binding>
+   <binding name="Y"><uri>http://www.University82.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University82.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University80.edu/GraduateStudent96</uri></binding>
+   <binding name="Y"><uri>http://www.University80.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University80.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University7.edu/GraduateStudent12</uri></binding>
+   <binding name="Y"><uri>http://www.University7.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University7.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University58.edu/GraduateStudent45</uri></binding>
+   <binding name="Y"><uri>http://www.University58.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University58.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University56.edu/GraduateStudent98</uri></binding>
+   <binding name="Y"><uri>http://www.University56.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University56.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University50.edu/GraduateStudent7</uri></binding>
+   <binding name="Y"><uri>http://www.University50.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University50.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University48.edu/GraduateStudent58</uri></binding>
+   <binding name="Y"><uri>http://www.University48.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University48.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University47.edu/GraduateStudent26</uri></binding>
+   <binding name="Y"><uri>http://www.University47.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University47.edu</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University33.edu/GraduateStudent100</uri></binding>
+   <binding name="Y"><uri>http://www.University33.edu</uri></binding>
+   <binding name="Z"><uri>http://www.Department0.University33.edu</uri></binding>
+  </result>
+ </results>
+</sparql>
