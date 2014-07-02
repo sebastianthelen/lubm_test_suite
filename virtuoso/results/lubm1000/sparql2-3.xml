@@ -1,0 +1,25 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="X"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="X"><uri>http://www.Department0.University0.edu/AssistantProfessor0/Publication5</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University0.edu/AssistantProfessor0/Publication4</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University0.edu/AssistantProfessor0/Publication3</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University0.edu/AssistantProfessor0/Publication2</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University0.edu/AssistantProfessor0/Publication1</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University0.edu/AssistantProfessor0/Publication0</uri></binding>
+  </result>
+ </results>
+</sparql>
