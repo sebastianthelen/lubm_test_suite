@@ -1,8 +1,802 @@
 <sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
  <head>
   <variable name="X"/>
-  <variable name="Y"/>
  </head>
  <results distinct="false" ordered="true">
+  <result>
+   <binding name="X"><uri>http://www.Department9.University80.edu/GraduateStudent87</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University52.edu/GraduateStudent84</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University37.edu/GraduateStudent0</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University34.edu/GraduateStudent24</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University3.edu/GraduateStudent36</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University3.edu/GraduateStudent14</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department9.University13.edu/GraduateStudent46</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University96.edu/GraduateStudent92</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University90.edu/GraduateStudent79</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University9.edu/GraduateStudent110</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University57.edu/GraduateStudent55</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University50.edu/GraduateStudent32</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University4.edu/GraduateStudent133</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University14.edu/GraduateStudent90</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department8.University11.edu/GraduateStudent17</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University98.edu/GraduateStudent35</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University86.edu/GraduateStudent31</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University78.edu/GraduateStudent21</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University66.edu/GraduateStudent98</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University66.edu/GraduateStudent110</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University63.edu/GraduateStudent151</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University62.edu/GraduateStudent9</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University58.edu/GraduateStudent32</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University4.edu/GraduateStudent87</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University37.edu/GraduateStudent89</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University31.edu/GraduateStudent104</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University3.edu/GraduateStudent88</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University28.edu/GraduateStudent73</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University24.edu/GraduateStudent58</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University2.edu/GraduateStudent125</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department7.University17.edu/GraduateStudent61</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University88.edu/GraduateStudent86</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University73.edu/GraduateStudent45</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University67.edu/GraduateStudent64</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University66.edu/GraduateStudent90</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University54.edu/GraduateStudent71</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University47.edu/GraduateStudent101</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University41.edu/GraduateStudent101</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University40.edu/GraduateStudent115</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University31.edu/GraduateStudent69</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University31.edu/GraduateStudent128</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University29.edu/GraduateStudent23</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University23.edu/GraduateStudent75</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University2.edu/GraduateStudent12</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University17.edu/GraduateStudent81</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department6.University1.edu/GraduateStudent81</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University99.edu/GraduateStudent52</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University97.edu/GraduateStudent112</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University82.edu/GraduateStudent38</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University82.edu/GraduateStudent1</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University81.edu/GraduateStudent51</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University79.edu/GraduateStudent47</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University78.edu/GraduateStudent18</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University77.edu/GraduateStudent69</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University72.edu/GraduateStudent38</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University59.edu/GraduateStudent63</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University55.edu/GraduateStudent46</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University52.edu/GraduateStudent45</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University42.edu/GraduateStudent64</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University28.edu/GraduateStudent64</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University28.edu/GraduateStudent23</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University27.edu/GraduateStudent81</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University27.edu/GraduateStudent80</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department5.University11.edu/GraduateStudent15</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University98.edu/GraduateStudent90</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University93.edu/GraduateStudent76</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University76.edu/GraduateStudent97</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University73.edu/GraduateStudent7</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University71.edu/GraduateStudent102</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University63.edu/GraduateStudent87</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University60.edu/GraduateStudent33</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University55.edu/GraduateStudent104</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University52.edu/GraduateStudent116</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University23.edu/GraduateStudent91</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department4.University10.edu/GraduateStudent19</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University94.edu/GraduateStudent77</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University93.edu/GraduateStudent25</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University91.edu/GraduateStudent36</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University9.edu/GraduateStudent83</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University75.edu/GraduateStudent118</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University70.edu/GraduateStudent20</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University49.edu/GraduateStudent84</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University38.edu/GraduateStudent28</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University33.edu/GraduateStudent10</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University24.edu/GraduateStudent27</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University22.edu/GraduateStudent32</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University20.edu/GraduateStudent111</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University17.edu/GraduateStudent91</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University14.edu/GraduateStudent83</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department3.University10.edu/GraduateStudent68</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department24.University85.edu/GraduateStudent79</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department24.University56.edu/GraduateStudent122</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department24.University19.edu/GraduateStudent24</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department24.University12.edu/GraduateStudent66</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department22.University98.edu/GraduateStudent12</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department22.University29.edu/GraduateStudent62</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University85.edu/GraduateStudent16</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University62.edu/GraduateStudent28</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University56.edu/GraduateStudent88</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University29.edu/GraduateStudent20</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department21.University24.edu/GraduateStudent63</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University61.edu/GraduateStudent65</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University60.edu/GraduateStudent121</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University56.edu/GraduateStudent75</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University47.edu/GraduateStudent36</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University41.edu/GraduateStudent121</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University4.edu/GraduateStudent117</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University29.edu/GraduateStudent31</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University24.edu/GraduateStudent24</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department20.University23.edu/GraduateStudent131</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University84.edu/GraduateStudent9</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University83.edu/GraduateStudent134</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University80.edu/GraduateStudent90</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University75.edu/GraduateStudent69</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University70.edu/GraduateStudent3</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University63.edu/GraduateStudent55</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University58.edu/GraduateStudent25</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University50.edu/GraduateStudent109</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University45.edu/GraduateStudent94</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University40.edu/GraduateStudent34</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University26.edu/GraduateStudent82</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University20.edu/GraduateStudent93</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University19.edu/GraduateStudent114</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department2.University18.edu/GraduateStudent77</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University91.edu/GraduateStudent111</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University72.edu/GraduateStudent88</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University56.edu/GraduateStudent96</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University53.edu/GraduateStudent34</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department19.University18.edu/GraduateStudent131</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University76.edu/GraduateStudent111</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University69.edu/GraduateStudent100</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University42.edu/GraduateStudent106</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University3.edu/GraduateStudent81</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University26.edu/GraduateStudent80</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department18.University18.edu/GraduateStudent95</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University98.edu/GraduateStudent39</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University96.edu/GraduateStudent36</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University91.edu/GraduateStudent87</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University9.edu/GraduateStudent46</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University85.edu/GraduateStudent37</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University84.edu/GraduateStudent115</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University76.edu/GraduateStudent38</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University75.edu/GraduateStudent109</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University62.edu/GraduateStudent67</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University4.edu/GraduateStudent76</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University34.edu/GraduateStudent104</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University3.edu/GraduateStudent91</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department17.University10.edu/GraduateStudent62</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University99.edu/GraduateStudent112</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University98.edu/GraduateStudent2</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University78.edu/GraduateStudent13</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University74.edu/GraduateStudent77</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University71.edu/GraduateStudent119</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University57.edu/GraduateStudent57</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University56.edu/GraduateStudent20</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University53.edu/GraduateStudent128</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University45.edu/GraduateStudent87</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University45.edu/GraduateStudent26</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University33.edu/GraduateStudent87</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University31.edu/GraduateStudent8</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University29.edu/GraduateStudent131</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department16.University12.edu/GraduateStudent44</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University94.edu/GraduateStudent47</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University91.edu/GraduateStudent31</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University41.edu/GraduateStudent105</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University35.edu/GraduateStudent99</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University24.edu/GraduateStudent54</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University18.edu/GraduateStudent82</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department15.University18.edu/GraduateStudent118</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University92.edu/GraduateStudent119</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University86.edu/GraduateStudent60</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University81.edu/GraduateStudent50</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University65.edu/GraduateStudent59</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University62.edu/GraduateStudent119</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University34.edu/GraduateStudent101</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University25.edu/GraduateStudent14</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University18.edu/GraduateStudent7</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department14.University15.edu/GraduateStudent98</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University90.edu/GraduateStudent90</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University75.edu/GraduateStudent15</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University71.edu/GraduateStudent45</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University64.edu/GraduateStudent107</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University62.edu/GraduateStudent96</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University59.edu/GraduateStudent68</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University59.edu/GraduateStudent113</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University57.edu/GraduateStudent31</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University45.edu/GraduateStudent99</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University44.edu/GraduateStudent9</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University37.edu/GraduateStudent96</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University37.edu/GraduateStudent3</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University35.edu/GraduateStudent16</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University32.edu/GraduateStudent117</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University27.edu/GraduateStudent14</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University21.edu/GraduateStudent110</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University17.edu/GraduateStudent143</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University14.edu/GraduateStudent28</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University11.edu/GraduateStudent97</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department13.University1.edu/GraduateStudent40</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University98.edu/GraduateStudent106</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University94.edu/GraduateStudent8</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University90.edu/GraduateStudent118</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University88.edu/GraduateStudent24</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University82.edu/GraduateStudent33</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University55.edu/GraduateStudent76</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University46.edu/GraduateStudent71</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University32.edu/GraduateStudent40</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University24.edu/GraduateStudent26</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department12.University12.edu/GraduateStudent93</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University94.edu/GraduateStudent69</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University88.edu/GraduateStudent49</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University77.edu/GraduateStudent50</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University76.edu/GraduateStudent97</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University76.edu/GraduateStudent126</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University74.edu/GraduateStudent41</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University71.edu/GraduateStudent53</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University61.edu/GraduateStudent89</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University54.edu/GraduateStudent96</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University5.edu/GraduateStudent7</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University46.edu/GraduateStudent5</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University46.edu/GraduateStudent114</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University38.edu/GraduateStudent51</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University34.edu/GraduateStudent93</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University32.edu/GraduateStudent84</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University32.edu/GraduateStudent49</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University3.edu/GraduateStudent83</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University29.edu/GraduateStudent47</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University18.edu/GraduateStudent12</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department11.University14.edu/GraduateStudent116</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University88.edu/GraduateStudent41</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University82.edu/GraduateStudent30</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University78.edu/GraduateStudent94</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University74.edu/GraduateStudent43</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University74.edu/GraduateStudent22</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University70.edu/GraduateStudent100</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University69.edu/GraduateStudent0</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University66.edu/GraduateStudent104</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University62.edu/GraduateStudent67</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University52.edu/GraduateStudent16</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University49.edu/GraduateStudent124</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University48.edu/GraduateStudent47</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University32.edu/GraduateStudent47</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University29.edu/GraduateStudent46</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University24.edu/GraduateStudent6</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University18.edu/GraduateStudent0</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department10.University10.edu/GraduateStudent7</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University79.edu/GraduateStudent103</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University63.edu/GraduateStudent49</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University57.edu/GraduateStudent107</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University56.edu/GraduateStudent116</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University45.edu/GraduateStudent29</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University35.edu/GraduateStudent97</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University34.edu/GraduateStudent63</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University25.edu/GraduateStudent19</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department1.University15.edu/GraduateStudent75</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University95.edu/GraduateStudent138</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University95.edu/GraduateStudent100</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University92.edu/GraduateStudent96</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University85.edu/GraduateStudent31</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University79.edu/GraduateStudent123</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University78.edu/GraduateStudent28</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University74.edu/GraduateStudent94</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University68.edu/GraduateStudent96</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University50.edu/GraduateStudent27</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University26.edu/GraduateStudent12</uri></binding>
+  </result>
+  <result>
+   <binding name="X"><uri>http://www.Department0.University14.edu/GraduateStudent99</uri></binding>
+  </result>
  </results>
 </sparql>

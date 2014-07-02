@@ -30,12 +30,12 @@ query[13]='DEFINE input:same-as "yes" DEFINE input:inference "lubm_rule_set" PRE
 #	do
 #	time (curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" 'http://abel:8890/sparql' --data-urlencode 'query='"${query[$i]}"'' > results/lubm1000/sparql$i-$j.xml) 2>>results/timing_lubm1000_$j.log
 #	xsltproc -o results/lubm1000/result$i-$j.xml ../extract_bindings.xslt results/lubm1000/sparql$i-$j.xml;
-	done
+#	done
 #done
 
 for j in 0 1 2 3 4
 do
-	for i in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 13
+	for i in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 
 	do
 	printf "%d,%d," "$j" "$i" >> results/lubm1000/log.csv
 	t=$((/usr/bin/time -f'%e' curl -G --silent --max-time '300' --header "Accept: application/sparql-results+xml" 'http://abel:8890/sparql' --data-urlencode 'query='"${query[$i]}"'' > results/lubm1000/sparql$i-$j.xml) 2>&1)
