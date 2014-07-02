@@ -2,1126 +2,127 @@
 <sparql xmlns='http://www.w3.org/2005/sparql-results#'>
 	<head>
 		<variable name='X'/>
+		<variable name='Y'/>
 	</head>
 	<results>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup9</uri>
+				<uri>http://www.Department9.University0.edu/FullProfessor0</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department9.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup17</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup16</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup15</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup14</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department8.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup19</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup18</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup17</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup16</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup15</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup14</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department7.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup15</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup14</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department6.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department5.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup19</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup18</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup17</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup16</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup15</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup14</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department4.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup17</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup16</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup15</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup14</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department3.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department2.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department14.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department13.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department12.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department11.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup9</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup8</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup7</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup6</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup5</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup4</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup3</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup2</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup14</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup13</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup12</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup11</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup10</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup1</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department10.University0.edu/ResearchGroup0</uri>
-			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup9</uri>
+			<binding name='Y'>
+				<uri>http://www.Department9.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup8</uri>
+				<uri>http://www.Department8.University0.edu/FullProfessor3</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup7</uri>
+			<binding name='Y'>
+				<uri>http://www.Department8.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup6</uri>
+				<uri>http://www.Department7.University0.edu/FullProfessor1</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup5</uri>
+			<binding name='Y'>
+				<uri>http://www.Department7.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup4</uri>
+				<uri>http://www.Department6.University0.edu/FullProfessor1</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup3</uri>
+			<binding name='Y'>
+				<uri>http://www.Department6.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup2</uri>
+				<uri>http://www.Department5.University0.edu/FullProfessor4</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup18</uri>
+			<binding name='Y'>
+				<uri>http://www.Department5.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup17</uri>
+				<uri>http://www.Department4.University0.edu/FullProfessor3</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup16</uri>
+			<binding name='Y'>
+				<uri>http://www.Department4.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup15</uri>
+				<uri>http://www.Department3.University0.edu/FullProfessor4</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup14</uri>
+			<binding name='Y'>
+				<uri>http://www.Department3.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup13</uri>
+				<uri>http://www.Department2.University0.edu/FullProfessor4</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup12</uri>
+			<binding name='Y'>
+				<uri>http://www.Department2.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup11</uri>
+				<uri>http://www.Department14.University0.edu/FullProfessor6</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup10</uri>
+			<binding name='Y'>
+				<uri>http://www.Department14.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup1</uri>
+				<uri>http://www.Department13.University0.edu/FullProfessor7</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department1.University0.edu/ResearchGroup0</uri>
+			<binding name='Y'>
+				<uri>http://www.Department13.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup9</uri>
+				<uri>http://www.Department12.University0.edu/FullProfessor2</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup8</uri>
+			<binding name='Y'>
+				<uri>http://www.Department12.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup7</uri>
+				<uri>http://www.Department11.University0.edu/FullProfessor1</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup6</uri>
+			<binding name='Y'>
+				<uri>http://www.Department11.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup5</uri>
+				<uri>http://www.Department10.University0.edu/FullProfessor5</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup4</uri>
+			<binding name='Y'>
+				<uri>http://www.Department10.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup3</uri>
+				<uri>http://www.Department1.University0.edu/FullProfessor4</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup2</uri>
+			<binding name='Y'>
+				<uri>http://www.Department1.University0.edu</uri>
 			</binding>
 		</result>
 		<result>
 			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup1</uri>
+				<uri>http://www.Department0.University0.edu/FullProfessor7</uri>
 			</binding>
-		</result>
-		<result>
-			<binding name='X'>
-				<uri>http://www.Department0.University0.edu/ResearchGroup0</uri>
+			<binding name='Y'>
+				<uri>http://www.Department0.University0.edu</uri>
 			</binding>
 		</result>
 	</results>
